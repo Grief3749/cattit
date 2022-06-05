@@ -1,0 +1,16 @@
+body {
+    
+    margin-top: 90;
+    margin-left: 100;
+    margin-right: 100;
+    margin-bottom: 90;
+    
+}
+.pg{
+    height: 841px;
+    width: 1280px;
+    margin-top: 30;
+    background: #000 url(4pg.jpg);
+    display: inline-block;
+    
+}
